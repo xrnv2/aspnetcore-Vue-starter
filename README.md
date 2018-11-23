@@ -1,3 +1,4 @@
+Fork customized for my own purposes.
 # Asp.NETCore 2.1 Vue 2 Starter - by [DevHelp.Online](http://www.DevHelp.Online)
 
 This repo contains an ASP.NET Core + Vue.js 2 starter template (VS2017 or command line). The template is based
